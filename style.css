@@ -1,156 +1,140 @@
-body{
-    font-family: 'Roboto', sans-serif;
-    
+body {
+  font-family: "Roboto", sans-serif;
 }
 
-.pink-button{
-    background-color: rgb(251, 12, 155);
-    color: aliceblue;
-    padding: 10px 20px;
-    border-radius: 5px;
-    border: 1px solid;
-    text-decoration: none;
-    font-weight: bold;
-
+.pink-button {
+  background-color: rgb(251, 12, 155);
+  color: aliceblue;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: 1px solid;
+  text-decoration: none;
+  font-weight: bold;
 }
 
-.section1{
-    text-align: left;
-    float: left;
-    width: 30%;
-    padding: 10%;
-    
-    
+.section1 {
+  text-align: left;
+  float: left;
+  width: 30%;
+  padding: 10%;
 }
 
-.section2{
-    padding: 5%;
-
+.section2 {
+  padding: 5%;
 }
 
-.Name{
-    color: rgb(232, 9, 94);
-    font-weight: bold;
+.Name {
+  color: rgb(232, 9, 94);
+  font-weight: bold;
 }
 
-.zun{
-    float: left;
-    width: 40%;
-
+.zun {
+  float: left;
+  width: 40%;
 }
 
-#peter2{
-    width: 500px;
-    height: 500px;
-    margin-top: 150px;
-    margin-left: 150px;
+#peter2 {
+  width: 500px;
+  height: 500px;
+  margin-top: 150px;
+  margin-left: 150px;
 }
 
-.upper{
-    background-image: url(/images/header-bg.png);
-    
-    height: 730px;
-    background-repeat: no-repeat;
+.upper {
+  background-image: url(./images/header-bg.png);
+
+  height: 730px;
+  background-repeat: no-repeat;
 }
 
-.section3{
-    float: left;
-    padding: 5%;
-    width: 40%;
+.section3 {
+  float: left;
+  padding: 5%;
+  width: 40%;
 }
 
-.section4{
-    float: left;
-    padding: 5%;
-    width: 30%;
-    margin-top: 200px;
+.section4 {
+  float: left;
+  padding: 5%;
+  width: 30%;
+  margin-top: 200px;
 }
 
-p{
-    color: dimgray;
-    font-weight: bold;
+p {
+  color: dimgray;
+  font-weight: bold;
 }
-h1{
-    font-weight: bold;
-
-}
-
-.mid{
-    background-image: url(/images/biography-bg.png);
-    height: 800px;
+h1 {
+  font-weight: bold;
 }
 
-#work-image{
-    float: left;
-    height: 40%;
-    width: 30%;
-    padding-left: 3%;
-  }
-
-#work-image2{
-    float: left;
-    height: 40%;
-    width: 30%;
-    padding-left: 3%;
-  }
-
-#work-image3{
-    float: left;
-    height: 40%;
-    width: 30%;
-    padding-left: 3%;
-  }
-  
-.mid2{   
-    background-image: url(/images/latest-work-bg.png);
-    height: 740px;
-    background-position: center;
-    background-repeat: no-repeat;
-    
-
+.mid {
+  background-image: url(./images/biography-bg.png);
+  height: 800px;
 }
 
-.work-images{
-    margin: 10%;
-    border-radius: 5px;
-    
-
+#work-image {
+  float: left;
+  height: 40%;
+  width: 30%;
+  padding-left: 3%;
 }
 
-#latesid{
-    font-weight: bold;
-    text-align: center;
-    margin: 70px;
+#work-image2 {
+  float: left;
+  height: 40%;
+  width: 30%;
+  padding-left: 3%;
 }
 
-.end{
-    text-align: center;
-
+#work-image3 {
+  float: left;
+  height: 40%;
+  width: 30%;
+  padding-left: 3%;
 }
 
-.end2{
-    text-align: center;
-    border: 10px;
-    background-color: rgb(223, 0, 141);
-    color: aliceblue;
-    border-radius: 10px;
-    margin: 0% 30%;
-    padding: 3% 1%;
-    
+.mid2 {
+  background-image: url(./images/latest-work-bg.png);
+  height: 740px;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-.secend{
-    height: 680px;
-    background-image: url(/images/footer-bg.png);
-    background-position: center;
-    background-repeat: no-repeat;
+.work-images {
+  margin: 10%;
+  border-radius: 5px;
 }
 
-
-.footer{
-    text-align: center;
-    font-family: 'Roboto', sans-serif;
-    font-weight: bolder;
+#latesid {
+  font-weight: bold;
+  text-align: center;
+  margin: 70px;
 }
 
+.end {
+  text-align: center;
+}
 
+.end2 {
+  text-align: center;
+  border: 10px;
+  background-color: rgb(223, 0, 141);
+  color: aliceblue;
+  border-radius: 10px;
+  margin: 0% 30%;
+  padding: 3% 1%;
+}
+
+.secend {
+  height: 680px;
+  background-image: url(./images/footer-bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.footer {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
+}
