@@ -41,7 +41,7 @@ body {
 }
 
 .upper {
-  background-image: url(./images/header-bg.png);
+  background-image: url(/images/header-bg.png);
 
   height: 730px;
   background-repeat: no-repeat;
@@ -69,7 +69,7 @@ h1 {
 }
 
 .mid {
-  background-image: url(./images/biography-bg.png);
+  background-image: url(/images/biography-bg.png);
   height: 800px;
 }
 
@@ -95,7 +95,7 @@ h1 {
 }
 
 .mid2 {
-  background-image: url(./images/latest-work-bg.png);
+  background-image: url(/images/latest-work-bg.png);
   height: 740px;
   background-position: center;
   background-repeat: no-repeat;
@@ -128,7 +128,7 @@ h1 {
 
 .secend {
   height: 680px;
-  background-image: url(./images/footer-bg.png);
+  background-image: url(/images/footer-bg.png);
   background-position: center;
   background-repeat: no-repeat;
 }
